@@ -1,0 +1,1402 @@
+{
+  "1": {
+    "identifier": "Bulbizarre",
+    "type": "Plante / Poison",
+    "height": 7,
+    "weight": 69,
+    "base_experience": 64
+  },
+  "2": {
+    "identifier": "Herbizarre",
+    "type": "Plante / Poison",
+    "height": 10,
+    "weight": 130,
+    "base_experience": 142
+  },
+  "3": {
+    "identifier": "Florizarre",
+    "type": "Plante / Poison",
+    "height": 20,
+    "weight": 1000,
+    "base_experience": 236
+  },
+  "4": {
+    "identifier": "Salamèche",
+    "type": "Feu",
+    "height": 6,
+    "weight": 85,
+    "base_experience": 62
+  },
+  "5": {
+    "identifier": "Reptincel",
+    "type": "Feu",
+    "height": 11,
+    "weight": 190,
+    "base_experience": 142
+  },
+  "6": {
+    "identifier": "Dracaufeu",
+    "type": "Feu / Vol",
+    "height": 17,
+    "weight": 905,
+    "base_experience": 240
+  },
+  "7": {
+    "identifier": "Carapuce",
+    "type": "Eau",
+    "height": 5,
+    "weight": 90,
+    "base_experience": 63
+  },
+  "8": {
+    "identifier": "Carabaffe",
+    "type": "Eau",
+    "height": 10,
+    "weight": 225,
+    "base_experience": 142
+  },
+  "9": {
+    "identifier": "Tortank",
+    "type": "Eau",
+    "height": 16,
+    "weight": 855,
+    "base_experience": 239
+  },
+  "10": {
+    "identifier": "Chenipan",
+    "type": "Insecte",
+    "height": 3,
+    "weight": 29,
+    "base_experience": 39
+  },
+  "11": {
+    "identifier": "Chrysacier",
+    "type": "Insecte",
+    "height": 7,
+    "weight": 99,
+    "base_experience": 72
+  },
+  "12": {
+    "identifier": "Papilusion",
+    "type": "Insecte / Vol",
+    "height": 11,
+    "weight": 320,
+    "base_experience": 178
+  },
+  "13": {
+    "identifier": "Aspicot",
+    "type": "Insecte / Poison",
+    "height": 3,
+    "weight": 32,
+    "base_experience": 39
+  },
+  "14": {
+    "identifier": "Coconfort",
+    "type": "Insecte / Poison",
+    "height": 6,
+    "weight": 100,
+    "base_experience": 72
+  },
+  "15": {
+    "identifier": "Dardargnan",
+    "type": "Insecte / Poison",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 178
+  },
+  "16": {
+    "identifier": "Roucool",
+    "type": "Normal / Vol",
+    "height": 3,
+    "weight": 18,
+    "base_experience": 50
+  },
+  "17": {
+    "identifier": "Roucoups",
+    "type": "Normal / Vol",
+    "height": 11,
+    "weight": 300,
+    "base_experience": 122
+  },
+  "18": {
+    "identifier": "Roucarnage",
+    "type": "Normal / Vol",
+    "height": 15,
+    "weight": 395,
+    "base_experience": 216
+  },
+  "19": {
+    "identifier": "Rattata",
+    "type": "Normal",
+    "height": 3,
+    "weight": 35,
+    "base_experience": 51
+  },
+  "20": {
+    "identifier": "Rattatac",
+    "type": "Normal",
+    "height": 7,
+    "weight": 185,
+    "base_experience": 145
+  },
+  "21": {
+    "identifier": "Piafabec",
+    "type": "Normal / Vol",
+    "height": 3,
+    "weight": 20,
+    "base_experience": 52
+  },
+  "22": {
+    "identifier": "Rapasdepic",
+    "type": "Normal / Vol",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 155
+  },
+  "23": {
+    "identifier": "Abo",
+    "type": "Poison",
+    "height": 20,
+    "weight": 69,
+    "base_experience": 58
+  },
+  "24": {
+    "identifier": "Arbok",
+    "type": "Poison",
+    "height": 35,
+    "weight": 650,
+    "base_experience": 153
+  },
+  "25": {
+    "identifier": "Pikachu",
+    "type": "Électrik",
+    "height": 4,
+    "weight": 60,
+    "base_experience": 112
+  },
+  "26": {
+    "identifier": "Raichu",
+    "type": "Électrik",
+    "height": 8,
+    "weight": 300,
+    "base_experience": 218
+  },
+  "27": {
+    "identifier": "Sabelette",
+    "type": "Sol",
+    "height": 6,
+    "weight": 120,
+    "base_experience": 60
+  },
+  "28": {
+    "identifier": "Sablaireau",
+    "type": "Sol",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 158
+  },
+  "29": {
+    "identifier": "Nidoran-f",
+    "type": "Poison",
+    "height": 4,
+    "weight": 70,
+    "base_experience": 55
+  },
+  "30": {
+    "identifier": "Nidorina",
+    "type": "Poison",
+    "height": 8,
+    "weight": 200,
+    "base_experience": 128
+  },
+  "31": {
+    "identifier": "Nidoqueen",
+    "type": "Poison / Sol",
+    "height": 13,
+    "weight": 600,
+    "base_experience": 223
+  },
+  "32": {
+    "identifier": "Nidoran-m",
+    "type": "Poison",
+    "height": 5,
+    "weight": 90,
+    "base_experience": 55
+  },
+  "33": {
+    "identifier": "Nidorino",
+    "type": "Poison",
+    "height": 9,
+    "weight": 195,
+    "base_experience": 128
+  },
+  "34": {
+    "identifier": "Nidoking",
+    "type": "Poison / Sol",
+    "height": 14,
+    "weight": 620,
+    "base_experience": 223
+  },
+  "35": {
+    "identifier": "Mélofée",
+    "type": "Fée",
+    "height": 6,
+    "weight": 75,
+    "base_experience": 113
+  },
+  "36": {
+    "identifier": "Mélodelfe",
+    "type": "Fée",
+    "height": 13,
+    "weight": 400,
+    "base_experience": 217
+  },
+  "37": {
+    "identifier": "Goupix",
+    "type": "Feu",
+    "height": 6,
+    "weight": 99,
+    "base_experience": 60
+  },
+  "38": {
+    "identifier": "Feunard",
+    "type": "Feu",
+    "height": 11,
+    "weight": 199,
+    "base_experience": 177
+  },
+  "39": {
+    "identifier": "Rondoudou",
+    "type": "Normal / Fée",
+    "height": 5,
+    "weight": 55,
+    "base_experience": 95
+  },
+  "40": {
+    "identifier": "Grodoudou",
+    "type": "Normal / Fée",
+    "height": 10,
+    "weight": 120,
+    "base_experience": 190
+  },
+  "41": {
+    "identifier": "Nosferapti",
+    "type": "Poison / Vol",
+    "height": 8,
+    "weight": 75,
+    "base_experience": 49
+  },
+  "42": {
+    "identifier": "Nosferalto",
+    "type": "Poison / Vol",
+    "height": 16,
+    "weight": 550,
+    "base_experience": 159
+  },
+  "43": {
+    "identifier": "Mystherbe",
+    "type": "Plante / Poison",
+    "height": 5,
+    "weight": 54,
+    "base_experience": 64
+  },
+  "44": {
+    "identifier": "Ortide",
+    "type": "Plante / Poison",
+    "height": 8,
+    "weight": 86,
+    "base_experience": 138
+  },
+  "45": {
+    "identifier": "Rafflesia",
+    "type": "Plante / Poison",
+    "height": 12,
+    "weight": 186,
+    "base_experience": 221
+  },
+  "46": {
+    "identifier": "Paras",
+    "type": "Insecte / Plante",
+    "height": 3,
+    "weight": 54,
+    "base_experience": 57
+  },
+  "47": {
+    "identifier": "Parasect",
+    "type": "Insecte / Plante",
+    "height": 10,
+    "weight": 295,
+    "base_experience": 142
+  },
+  "48": {
+    "identifier": "Mimitoss",
+    "type": "Insecte / Poison",
+    "height": 10,
+    "weight": 300,
+    "base_experience": 61
+  },
+  "49": {
+    "identifier": "Aéromite",
+    "height": 15,
+    "weight": 125,
+    "base_experience": 158,
+    "type": "Insecte / Poison"
+  },
+  "50": {
+    "identifier": "Taupiqueur",
+    "height": 2,
+    "weight": 8,
+    "base_experience": 53,
+    "type": "Sol"
+  },
+  "51": {
+    "identifier": "Triopikeur",
+    "height": 7,
+    "weight": 333,
+    "base_experience": 142,
+    "type": "Sol"
+  },
+  "52": {
+    "identifier": "Miaouss",
+    "height": 4,
+    "weight": 42,
+    "base_experience": 58,
+    "type": "Normal"
+  },
+  "53": {
+    "identifier": "Persian",
+    "height": 10,
+    "weight": 320,
+    "base_experience": 154,
+    "type": "Normal"
+  },
+  "54": {
+    "identifier": "Psykokwak",
+    "type": "Eau",
+    "height": 8,
+    "weight": 190,
+    "base_experience": 64
+  },
+  "55": {
+    "identifier": "Akwakwak",
+    "type": "Eau",
+    "height": 17,
+    "weight": 766,
+    "base_experience": 175
+  },
+  "56": {
+    "identifier": "Férosinge",
+    "type": "Combat",
+    "height": 5,
+    "weight": 280,
+    "base_experience": 61
+  },
+  "57": {
+    "identifier": "Colossinge",
+    "type": "Combat",
+    "height": 10,
+    "weight": 320,
+    "base_experience": 159
+  },
+  "58": {
+    "identifier": "Caninos",
+    "type": "Feu",
+    "height": 7,
+    "weight": 190,
+    "base_experience": 70
+  },
+  "59": {
+    "identifier": "Arcanin",
+    "type": "Feu",
+    "height": 19,
+    "weight": 1550,
+    "base_experience": 194
+  },
+  "60": {
+    "identifier": "Ptitard",
+    "type": "Eau",
+    "height": 6,
+    "weight": 124,
+    "base_experience": 60
+  },
+  "61": {
+    "identifier": "Têtarte",
+    "type": "Eau",
+    "height": 10,
+    "weight": 200,
+    "base_experience": 135
+  },
+  "62": {
+    "identifier": "Tartard",
+    "type": "Eau / Combat",
+    "height": 13,
+    "weight": 540,
+    "base_experience": 230
+  },
+  "63": {
+    "identifier": "Abra",
+    "type": "Psy",
+    "height": 9,
+    "weight": 195,
+    "base_experience": 62
+  },
+  "64": {
+    "identifier": "Kadabra",
+    "type": "Psy",
+    "height": 13,
+    "weight": 565,
+    "base_experience": 140
+  },
+  "65": {
+    "identifier": "Alakazam",
+    "type": "Psy",
+    "height": 15,
+    "weight": 480,
+    "base_experience": 225
+  },
+  "66": {
+    "identifier": "Machoc",
+    "type": "Combat",
+    "height": 8,
+    "weight": 195,
+    "base_experience": 61
+  },
+  "67": {
+    "identifier": "Machopeur",
+    "type": "Combat",
+    "height": 15,
+    "weight": 705,
+    "base_experience": 142
+  },
+  "68": {
+    "identifier": "Mackogneur",
+    "type": "Combat",
+    "height": 16,
+    "weight": 1300,
+    "base_experience": 227
+  },
+  "69": {
+    "identifier": "Chétiflor",
+    "type": "Plante / Poison",
+    "height": 7,
+    "weight": 40,
+    "base_experience": 60
+  },
+  "70": {
+    "identifier": "Boustiflor",
+    "type": "Plante / Poison",
+    "height": 10,
+    "weight": 64,
+    "base_experience": 137
+  },
+  "71": {
+    "identifier": "Empiflor",
+    "type": "Plante / Poison",
+    "height": 17,
+    "weight": 155,
+    "base_experience": 221
+  },
+  "72": {
+    "identifier": "Tentacool",
+    "type": "Eau / Poison",
+    "height": 9,
+    "weight": 455,
+    "base_experience": 67
+  },
+  "73": {
+    "identifier": "Tentacruel",
+    "type": "Eau / Poison",
+    "height": 16,
+    "weight": 550,
+    "base_experience": 180
+  },
+  "74": {
+    "identifier": "Racaillou",
+    "type": "Roche / Sol",
+    "height": 4,
+    "weight": 200,
+    "base_experience": 60
+  },
+  "75": {
+    "identifier": "Gravalanch",
+    "type": "Roche / Sol",
+    "height": 10,
+    "weight": 1050,
+    "base_experience": 137
+  },
+  "76": {
+    "identifier": "Grolem",
+    "type": "Roche / Sol",
+    "height": 14,
+    "weight": 3000,
+    "base_experience": 223
+  },
+  "77": {
+    "identifier": "Ponyta",
+    "type": "Feu",
+    "height": 10,
+    "weight": 300,
+    "base_experience": 82
+  },
+  "78": {
+    "identifier": "Galopa",
+    "type": "Feu",
+    "height": 17,
+    "weight": 950,
+    "base_experience": 175
+  },
+  "79": {
+    "identifier": "Ramoloss",
+    "type": "Eau / Psy",
+    "height": 12,
+    "weight": 360,
+    "base_experience": 63
+  },
+  "80": {
+    "identifier": "Flagadoss",
+    "type": "Eau / Psy",
+    "height": 16,
+    "weight": 785,
+    "base_experience": 172
+  },
+  "81": {
+    "identifier": "Magnéti",
+    "type": "Électrik / Acier",
+    "height": 3,
+    "weight": 60,
+    "base_experience": 65
+  },
+  "82": {
+    "identifier": "Magnéton",
+    "type": "Électrik / Acier",
+    "height": 10,
+    "weight": 600,
+    "base_experience": 163
+  },
+  "83": {
+    "identifier": "Canarticho",
+    "type": "Normal / Vol",
+    "height": 8,
+    "weight": 150,
+    "base_experience": 132
+  },
+  "84": {
+    "identifier": "Doduo",
+    "type": "Normal / Vol",
+    "height": 14,
+    "weight": 392,
+    "base_experience": 62
+  },
+  "85": {
+    "identifier": "Dodrio",
+    "type": "Normal / Vol",
+    "height": 18,
+    "weight": 852,
+    "base_experience": 165
+  },
+  "86": {
+    "identifier": "Otaria",
+    "type": "Eau",
+    "height": 11,
+    "weight": 900,
+    "base_experience": 65
+  },
+  "87": {
+    "identifier": "Lamantine",
+    "type": "Eau / Glace",
+    "height": 17,
+    "weight": 1200,
+    "base_experience": 166
+  },
+  "88": {
+    "identifier": "Tadmorv",
+    "type": "Poison",
+    "height": 9,
+    "weight": 300,
+    "base_experience": 65
+  },
+  "89": {
+    "identifier": "Grotamorv",
+    "type": "Poison",
+    "height": 12,
+    "weight": 300,
+    "base_experience": 175
+  },
+  "90": {
+    "identifier": "Kokiyas",
+    "type": "Eau",
+    "height": 3,
+    "weight": 40,
+    "base_experience": 61
+  },
+  "91": {
+    "identifier": "Crustabri",
+    "type": "Eau / Glace",
+    "height": 15,
+    "weight": 1325,
+    "base_experience": 184
+  },
+  "92": {
+    "identifier": "Fantominus",
+    "type": "Spectre / Poison",
+    "height": 13,
+    "weight": 1,
+    "base_experience": 62
+  },
+  "93": {
+    "identifier": "Spectrum",
+    "type": "Spectre / Poison",
+    "height": 16,
+    "weight": 1,
+    "base_experience": 142
+  },
+  "94": {
+    "identifier": "Ectoplasma",
+    "type": "Spectre / Poison",
+    "height": 15,
+    "weight": 405,
+    "base_experience": 225
+  },
+  "95": {
+    "identifier": "Onix",
+    "type": "Roche / Sol",
+    "height": 88,
+    "weight": 2100,
+    "base_experience": 77
+  },
+  "96": {
+    "identifier": "Soporifik",
+    "type": "Psy",
+    "height": 10,
+    "weight": 324,
+    "base_experience": 66
+  },
+  "97": {
+    "identifier": "Hypnomade",
+    "type": "Psy",
+    "height": 16,
+    "weight": 756,
+    "base_experience": 169
+  },
+  "98": {
+    "identifier": "Krabby",
+    "type": "Eau",
+    "height": 4,
+    "weight": 65,
+    "base_experience": 65
+  },
+  "99": {
+    "identifier": "Kraboss",
+    "type": "Eau",
+    "height": 13,
+    "weight": 600,
+    "base_experience": 166
+  },
+  "100": {
+    "identifier": "Voltorbe",
+    "type": "Électrik",
+    "height": 5,
+    "weight": 104,
+    "base_experience": 66
+  },
+  "101": {
+    "identifier": "Électrode",
+    "type": "Électrik",
+    "height": 12,
+    "weight": 666,
+    "base_experience": 168
+  },
+  "102": {
+    "identifier": "Noeunoeuf",
+    "type": "Plante / Psy",
+    "height": 4,
+    "weight": 25,
+    "base_experience": 65
+  },
+  "103": {
+    "identifier": "Noadkoko",
+    "type": "Plante / Psy",
+    "height": 20,
+    "weight": 1200,
+    "base_experience": 186
+  },
+  "104": {
+    "identifier": "Osselait",
+    "type": "Sol",
+    "height": 4,
+    "weight": 65,
+    "base_experience": 64
+  },
+  "105": {
+    "identifier": "Ossatueur",
+    "type": "Sol",
+    "height": 10,
+    "weight": 450,
+    "base_experience": 149
+  },
+  "106": {
+    "identifier": "Kicklee",
+    "type": "Combat",
+    "height": 15,
+    "weight": 498,
+    "base_experience": 159
+  },
+  "107": {
+    "identifier": "Tygnon",
+    "type": "Combat",
+    "height": 14,
+    "weight": 502,
+    "base_experience": 159
+  },
+  "108": {
+    "identifier": "Excelangue",
+    "type": "Normal",
+    "height": 12,
+    "weight": 655,
+    "base_experience": 77
+  },
+  "109": {
+    "identifier": "Smogo",
+    "type": "Poison",
+    "height": 6,
+    "weight": 10,
+    "base_experience": 68
+  },
+  "110": {
+    "identifier": "Smogogo",
+    "type": "Poison",
+    "height": 12,
+    "weight": 95,
+    "base_experience": 172
+  },
+  "111": {
+    "identifier": "Rhinocorne",
+    "type": "Sol / Roche",
+    "height": 10,
+    "weight": 1150,
+    "base_experience": 69
+  },
+  "112": {
+    "identifier": "Rhinoféros",
+    "type": "Sol / Roche",
+    "height": 19,
+    "weight": 1200,
+    "base_experience": 170
+  },
+  "113": {
+    "identifier": "Leveinard",
+    "type": "Normal",
+    "height": 11,
+    "weight": 346,
+    "base_experience": 395
+  },
+  "114": {
+    "identifier": "Saquedeuneu",
+    "type": "Plante",
+    "height": 10,
+    "weight": 350,
+    "base_experience": 87
+  },
+  "115": {
+    "identifier": "Kangourex",
+    "type": "Normal",
+    "height": 22,
+    "weight": 800,
+    "base_experience": 172
+  },
+  "116": {
+    "identifier": "Hypotrempe",
+    "type": "Eau",
+    "height": 4,
+    "weight": 80,
+    "base_experience": 59
+  },
+  "117": {
+    "identifier": "Hypocéan",
+    "type": "Eau",
+    "height": 12,
+    "weight": 250,
+    "base_experience": 154
+  },
+  "118": {
+    "identifier": "Poissirène",
+    "type": "Eau",
+    "height": 6,
+    "weight": 150,
+    "base_experience": 64
+  },
+  "119": {
+    "identifier": "Poissoroy",
+    "type": "Eau",
+    "height": 13,
+    "weight": 390,
+    "base_experience": 158
+  },
+  "120": {
+    "identifier": "Stari",
+    "type": "Eau",
+    "height": 8,
+    "weight": 345,
+    "base_experience": 68
+  },
+  "121": {
+    "identifier": "Staross",
+    "type": "Eau / Psy",
+    "height": 11,
+    "weight": 800,
+    "base_experience": 182
+  },
+  "122": {
+    "identifier": "Mr. Mime",
+    "type": "Psy / Fée",
+    "height": 13,
+    "weight": 545,
+    "base_experience": 161
+  },
+  "123": {
+    "identifier": "Insécateur",
+    "type": "Insecte / Vol",
+    "height": 15,
+    "weight": 560,
+    "base_experience": 100
+  },
+  "124": {
+    "identifier": "Lippoutou",
+    "type": "Glace / Psy",
+    "height": 14,
+    "weight": 406,
+    "base_experience": 159
+  },
+  "125": {
+    "identifier": "Élektek",
+    "type": "Électrik",
+    "height": 11,
+    "weight": 300,
+    "base_experience": 172
+  },
+  "126": {
+    "identifier": "Magmar",
+    "type": "Feu",
+    "height": 13,
+    "weight": 445,
+    "base_experience": 173
+  },
+  "127": {
+    "identifier": "Scarabrute",
+    "type": "Insecte",
+    "height": 15,
+    "weight": 550,
+    "base_experience": 175
+  },
+  "128": {
+    "identifier": "Tauros",
+    "type": "Normal",
+    "height": 14,
+    "weight": 884,
+    "base_experience": 172
+  },
+  "129": {
+    "identifier": "Magicarpe",
+    "type": "Eau",
+    "height": 9,
+    "weight": 100,
+    "base_experience": 20
+  },
+  "130": {
+    "identifier": "Léviator",
+    "type": "Eau / Vol",
+    "height": 65,
+    "weight": 2350,
+    "base_experience": 189
+  },
+  "131": {
+    "identifier": "Lokhlass",
+    "type": "Eau / Glace",
+    "height": 25,
+    "weight": 2200,
+    "base_experience": 187
+  },
+  "132": {
+    "identifier": "Metamorph",
+    "type": "Normal",
+    "height": 3,
+    "weight": 40,
+    "base_experience": 101
+  },
+  "133": {
+    "identifier": "Évoli",
+    "type": "Normal",
+    "height": 3,
+    "weight": 65,
+    "base_experience": 65
+  },
+  "134": {
+    "identifier": "Aquali",
+    "type": "Eau",
+    "height": 10,
+    "weight": 290,
+    "base_experience": 184
+  },
+  "135": {
+    "identifier": "Voltali",
+    "type": "Électrik",
+    "height": 8,
+    "weight": 245,
+    "base_experience": 184
+  },
+  "136": {
+    "identifier": "Pyroli",
+    "type": "Feu",
+    "height": 9,
+    "weight": 250,
+    "base_experience": 184
+  },
+  "137": {
+    "identifier": "Porygon",
+    "type": "Normal",
+    "height": 8,
+    "weight": 365,
+    "base_experience": 79
+  },
+  "138": {
+    "identifier": "Amonita",
+    "type": "Roche / Eau",
+    "height": 4,
+    "weight": 75,
+    "base_experience": 71
+  },
+  "139": {
+    "identifier": "Amonistar",
+    "type": "Roche / Eau",
+    "height": 10,
+    "weight": 350,
+    "base_experience": 173
+  },
+  "140": {
+    "identifier": "Kabuto",
+    "type": "Roche / Eau",
+    "height": 5,
+    "weight": 115,
+    "base_experience": 71
+  },
+  "141": {
+    "identifier": "Kabutops",
+    "type": "Roche / Eau",
+    "height": 13,
+    "weight": 405,
+    "base_experience": 173
+  },
+  "142": {
+    "identifier": "Ptéra",
+    "type": "Roche / Vol",
+    "height": 18,
+    "weight": 590,
+    "base_experience": 180
+  },
+  "143": {
+    "identifier": "Ronflex",
+    "type": "Normal",
+    "height": 21,
+    "weight": 4600,
+    "base_experience": 189
+  },
+  "144": {
+    "identifier": "Artikodin",
+    "type": "Glace / Vol",
+    "height": 17,
+    "weight": 554,
+    "base_experience": 261
+  },
+  "145": {
+    "identifier": "Électhor",
+    "type": "Électrik / Vol",
+    "height": 16,
+    "weight": 526,
+    "base_experience": 261
+  },
+  "146": {
+    "identifier": "Sulfura",
+    "type": "Feu / Vol",
+    "height": 20,
+    "weight": 600,
+    "base_experience": 261
+  },
+  "147": {
+    "identifier": "Minidraco",
+    "type": "Dragon",
+    "height": 18,
+    "weight": 33,
+    "base_experience": 60
+  },
+  "148": {
+    "identifier": "Draco",
+    "type": "Dragon",
+    "height": 40,
+    "weight": 165,
+    "base_experience": 147
+  },
+  "149": {
+    "identifier": "Dracolosse",
+    "type": "Dragon / Vol",
+    "height": 22,
+    "weight": 2100,
+    "base_experience": 270
+  },
+  "150": {
+    "identifier": "Mewtwo",
+    "type": "Psy",
+    "height": 20,
+    "weight": 1220,
+    "base_experience": 306
+  },
+  "151": {
+    "identifier": "Mew",
+    "type": "Psy",
+    "height": 4,
+    "weight": 40,
+    "base_experience": 270
+  },
+  "152": {
+    "identifier": "Germignon",
+    "type": "Plante",
+    "height": 9,
+    "weight": 64,
+    "base_experience": 64
+  },
+  "153": {
+    "identifier": "Macronium",
+    "type": "Plante",
+    "height": 12,
+    "weight": 158,
+    "base_experience": 142
+  },
+  "154": {
+    "identifier": "Méganium",
+    "type": "Plante",
+    "height": 18,
+    "weight": 1005,
+    "base_experience": 236
+  },
+  "155": {
+    "identifier": "Héricendre",
+    "type": "Feu",
+    "height": 5,
+    "weight": 79,
+    "base_experience": 62
+  },
+  "156": {
+    "identifier": "Feurisson",
+    "type": "Feu",
+    "height": 9,
+    "weight": 190,
+    "base_experience": 142
+  },
+  "157": {
+    "identifier": "Typhlosion",
+    "type": "Feu",
+    "height": 17,
+    "weight": 795,
+    "base_experience": 240
+  },
+  "158": {
+    "identifier": "Kaiminus",
+    "type": "Eau",
+    "height": 6,
+    "weight": 95,
+    "base_experience": 63
+  },
+  "159": {
+    "identifier": "Crocrodil",
+    "type": "Eau",
+    "height": 11,
+    "weight": 250,
+    "base_experience": 142
+  },
+  "160": {
+    "identifier": "Aligatueur",
+    "type": "Eau",
+    "height": 23,
+    "weight": 888,
+    "base_experience": 239
+  },
+  "161": {
+    "identifier": "Fouinette",
+    "type": "Normal",
+    "height": 8,
+    "weight": 60,
+    "base_experience": 43
+  },
+  "162": {
+    "identifier": "Fouinar",
+    "type": "Normal",
+    "height": 18,
+    "weight": 325,
+    "base_experience": 145
+  },
+  "163": {
+    "identifier": "Hoothoot",
+    "type": "Normal / Vol",
+    "height": 7,
+    "weight": 212,
+    "base_experience": 52
+  },
+  "164": {
+    "identifier": "Noarfang",
+    "type": "Normal / Vol",
+    "height": 16,
+    "weight": 408,
+    "base_experience": 155
+  },
+  "165": {
+    "identifier": "Coxy",
+    "type": "Insecte / Vol",
+    "height": 10,
+    "weight": 108,
+    "base_experience": 53
+  },
+  "166": {
+    "identifier": "Coxyclaque",
+    "type": "Insecte / Vol",
+    "height": 14,
+    "weight": 356,
+    "base_experience": 137
+  },
+  "167": {
+    "identifier": "Mimigal",
+    "type": "Insecte / Poison",
+    "height": 5,
+    "weight": 85,
+    "base_experience": 50
+  },
+  "168": {
+    "identifier": "Migalos",
+    "type": "Insecte / Poison",
+    "height": 11,
+    "weight": 335,
+    "base_experience": 140
+  },
+  "169": {
+    "identifier": "Nostenfer",
+    "type": "Poison / Vol",
+    "height": 18,
+    "weight": 750,
+    "base_experience": 241
+  },
+  "170": {
+    "identifier": "Loupio",
+    "type": "Eau / Électrik",
+    "height": 5,
+    "weight": 120,
+    "base_experience": 66
+  },
+  "171": {
+    "identifier": "Lanturn",
+    "type": "Eau / Électrik",
+    "height": 12,
+    "weight": 225,
+    "base_experience": 161
+  },
+  "172": {
+    "identifier": "Pichu",
+    "type": "Électrik",
+    "height": 3,
+    "weight": 20,
+    "base_experience": 41
+  },
+  "173": {
+    "identifier": "Mélo",
+    "type": "Fée",
+    "height": 3,
+    "weight": 30,
+    "base_experience": 44
+  },
+  "174": {
+    "identifier": "Toudoudou",
+    "type": "Normal / Fée",
+    "height": 3,
+    "weight": 10,
+    "base_experience": 42
+  },
+  "175": {
+    "identifier": "Togepi",
+    "type": "Fée",
+    "height": 3,
+    "weight": 15,
+    "base_experience": 49
+  },
+  "176": {
+    "identifier": "Togetic",
+    "type": "Fée / Vol",
+    "height": 6,
+    "weight": 32,
+    "base_experience": 142
+  },
+  "177": {
+    "identifier": "Natu",
+    "type": "Psy / Vol",
+    "height": 2,
+    "weight": 20,
+    "base_experience": 64
+  },
+  "178": {
+    "identifier": "Xatu",
+    "type": "Psy / Vol",
+    "height": 15,
+    "weight": 150,
+    "base_experience": 165
+  },
+  "179": {
+    "identifier": "Wattouat",
+    "type": "Électrik",
+    "height": 6,
+    "weight": 78,
+    "base_experience": 56
+  },
+  "180": {
+    "identifier": "Lainergie",
+    "type": "Électrik",
+    "height": 8,
+    "weight": 133,
+    "base_experience": 128
+  },
+  "181": {
+    "identifier": "Pharamp",
+    "type": "Électrik",
+    "height": 14,
+    "weight": 615,
+    "base_experience": 230
+  },
+  "182": {
+    "identifier": "Joliflor",
+    "type": "Plante",
+    "height": 4,
+    "weight": 58,
+    "base_experience": 221
+  },
+  "183": {
+    "identifier": "Marill",
+    "type": "Eau / Fée",
+    "height": 4,
+    "weight": 85,
+    "base_experience": 88
+  },
+  "184": {
+    "identifier": "Azumarill",
+    "type": "Eau / Fée",
+    "height": 8,
+    "weight": 285,
+    "base_experience": 189
+  },
+  "185": {
+    "identifier": "Simularbre",
+    "type": "Roche",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 144
+  },
+  "186": {
+    "identifier": "Tarpaud",
+    "type": "Eau",
+    "height": 11,
+    "weight": 339,
+    "base_experience": 225
+  },
+  "187": {
+    "identifier": "Granivol",
+    "type": "Plante / Vol",
+    "height": 4,
+    "weight": 5,
+    "base_experience": 50
+  },
+  "188": {
+    "identifier": "Floravol",
+    "type": "Plante / Vol",
+    "height": 6,
+    "weight": 10,
+    "base_experience": 119
+  },
+  "189": {
+    "identifier": "Cotovol",
+    "type": "Plante / Vol",
+    "height": 8,
+    "weight": 30,
+    "base_experience": 207
+  },
+  "190": {
+    "identifier": "Capumain",
+    "type": "Normal",
+    "height": 8,
+    "weight": 115,
+    "base_experience": 72
+  },
+  "191": {
+    "identifier": "Tournegrin",
+    "type": "Plante",
+    "height": 3,
+    "weight": 18,
+    "base_experience": 36
+  },
+  "192": {
+    "identifier": "Héliatronc",
+    "type": "Plante",
+    "height": 8,
+    "weight": 85,
+    "base_experience": 149
+  },
+  "193": {
+    "identifier": "Yanma",
+    "type": "Insecte / Vol",
+    "height": 12,
+    "weight": 380,
+    "base_experience": 78
+  },
+  "194": {
+    "identifier": "Axoloto",
+    "type": "Eau / Sol",
+    "height": 4,
+    "weight": 85,
+    "base_experience": 42
+  },
+  "195": {
+    "identifier": "Maraiste",
+    "type": "Eau / Sol",
+    "height": 14,
+    "weight": 750,
+    "base_experience": 151
+  },
+  "196": {
+    "identifier": "Mentali",
+    "type": "Psy",
+    "height": 9,
+    "weight": 265,
+    "base_experience": 184
+  },
+  "197": {
+    "identifier": "Noctali",
+    "type": "Ténèbres",
+    "height": 10,
+    "weight": 270,
+    "base_experience": 184
+  },
+  "198": {
+    "identifier": "Cornèbre",
+    "type": "Ténèbres / Vol",
+    "height": 5,
+    "weight": 21,
+    "base_experience": 81
+  },
+  "199": {
+    "identifier": "Roigada",
+    "type": "Eau / Psy",
+    "height": 20,
+    "weight": 795,
+    "base_experience": 172
+  },
+  "200": {
+    "identifier": "Feuforêve",
+    "type": "Spectre",
+    "height": 7,
+    "weight": 10,
+    "base_experience": 87
+  }
+}

@@ -1,0 +1,165 @@
+body {
+    background: no-repeat url(../images/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+    position: relative;
+}
+
+/* MAIN */
+
+#main_collection {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 202px;
+}
+
+.container_collection {
+    background-color: var(--white);
+    margin: 4% 0 4% 0%;
+    width: 74%;
+
+    border-radius: 15px;
+    padding: 10px 16px;
+    border: solid var(--main) 9px;
+    box-shadow: 3px 3px 3px #241d0c;
+}
+
+.container_collection>h1 {
+    color: var(--text_color);
+    margin: -1.5% 0 0 1.5%;
+    font-size: 53px;
+    font-family: 'Pokemon_Hollow';
+}
+
+form#addition_pokemon {
+    font-family: 'DS-Font';
+    margin-left: 4%;
+    font-size: 34px;
+}
+
+.container_liste {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 3%;
+    margin-top: 4%;
+}
+
+.container_liste>div {
+    background-color: white;
+    border-radius: 15px;
+    padding: 17px 17px 31px 17px;
+    margin-bottom: 22px;
+    border-color: var(--white);
+    box-shadow: 3px 3px 3px #a99594;
+    display: flex;
+    flex-wrap: wrap;
+    width: 17%;
+    justify-content: center;
+    margin-left: 21px;
+    align-items: center;
+}
+
+.container_liste>div>img {
+    width: 100%;
+    margin-top: -52px;
+}
+
+.container_liste>div>h3 {
+    transform: translateY(-28px);
+    font-size: 38px;
+    color: var(--text_color);
+    font-family: DS-FONT;
+
+    width: 100%;
+    text-align: center;
+}   
+.container_liste>div>a {
+    display: block;
+    width: 100%;
+    padding: 0 1em;
+}
+.container_liste>div>a>button {
+    background-color: var(--white);
+    border-radius: 15px;
+    padding: 9px 14px;
+    border-color: var(--secondary);
+    box-shadow: 3px 3px 3px var(--shadow);
+    width: 100%;
+    margin-bottom: 1em;
+    cursor: pointer;
+    font-family: 'DS-Font';
+    font-size: 2vh;
+}
+    
+.container_liste>div>a>button:hover {
+    background-color: white;
+     border-color: var(--white);
+    transition: all .2s ease; 
+}
+
+/* INPUT */ 
+
+input.qty {
+    width: 38px;
+    text-align: center;
+    margin-right: 12px !important;
+    margin-left: 12px;
+}
+input:is(.qtyplus, .qtyminus) {
+    margin-right: 0 !important;
+}
+.quantity {
+    display: flex;
+}
+/* END INPUT */
+
+input.qty  {
+    border-color: var(--secondary) !important;
+    background-color: var(--white) !important;
+    box-shadow: 3px 3px 3px var(--shadow);
+    color: var(--text_color) !important;
+}
+/* Bouton */
+
+select {
+    position: relative;
+    top: 3px;
+    margin-right: unset !important;
+}
+
+option, select {
+    text-transform: capitalize;
+}
+
+header>a>button,
+input.qty,
+input:is(.qtyplus, .qtyminus),
+input[type="submit"],
+select {
+    margin-right: 34px;
+    background-color: var(--secondary);
+
+    border-radius: 15px;
+    padding: 6px 16px;
+    border-color: var(--white);
+    box-shadow: 3px 3px 3px var(--shadow);
+
+    color: var(--white);
+    font-family: DS-Font;
+    font-size: 27px;
+    cursor: pointer;
+}
+
+header>a>button:hover {
+    background-color: var(--white);
+    border-color: var(--secondary);
+    color: var(--shadow);
+    font-family: DS-Font;
+    font-size: 27px;
+
+    transition: all .2s ease;
+}
+
+/* END Bouton */

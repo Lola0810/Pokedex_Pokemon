@@ -1,0 +1,83 @@
+/* FONTS */
+@font-face {
+    src: url(../fonts/pokemon-ds-font.ttf);
+    font-family: DS-Font;
+}
+
+@font-face {
+    src: url(../fonts/Pokemon\ Hollow.ttf);
+    font-family: Pokemon_Hollow;
+}
+
+/* FONTS */
+
+/* COULEURS */
+
+:root {
+    --main: #ffce52 ;
+    --secondary: #bf504a;
+    --white: #f7f3da;
+    --shadow: #3a1816;
+    --text_color:#1f1717 ;
+    --second_shadow: #1d1739;
+}
+
+
+/* Caractéristiques de base */
+
+*, body {
+    padding: 0;
+    margin: 0;
+}
+
+/* HEADER */
+
+header, #logo {
+    background-color: var(--main);
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#logo, #titre_logo {
+    margin-left: 1%;
+    font-family: Pokemon_Hollow;
+}
+
+#logo>img {
+    width: 4%;
+}
+
+#titre_logo {
+    color: var(--text_color);
+    font-size: 20px;
+}
+
+/* END HEADER */
+
+/* MAIN */
+
+main {
+    min-height: 100%;
+}
+
+/* END MAIN */
+
+/* FOOTER */
+
+footer {
+    background-color: var(--main);   
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer>h3 {
+    text-align: center;
+    color: var(--text_color);
+    font-size: 13px;
+    font-family: Pokemon_Hollow;
+}
+
+/* END FOOTER */

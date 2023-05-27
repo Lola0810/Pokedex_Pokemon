@@ -1,0 +1,75 @@
+body {
+    background: no-repeat url("../images/Pixel-art_wallpaper.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+main {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.connexion {
+    height: 89.1vh;
+}
+
+#profile_picture {
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px var(--second_shadow);
+    width: 16%;
+    margin-top: 10vh;
+}
+
+.connexion>h1 {
+    color: var(--white);
+    font-family: Pokemon_Hollow;
+    font-size: 5vh;
+    margin-top: -1vh;
+}
+
+
+/** Bouton **/
+
+
+#choisir_dresseur {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#name_dresseur {
+    border-color: var(--secondary);
+    background-color: var(--white);
+    box-shadow: 3px 3px 3px var(--shadow);
+    color: var(--text_color);
+    margin-bottom: 22px;
+    font-family: DS-Font;
+    font-size: 27px;
+    border-radius: 15px;
+    padding: 6px 16px;
+    cursor: pointer;
+}
+
+
+#valid {
+    background-color: var(--secondary);
+    color: var(--white);
+    font-family: DS-Font;
+    border-radius: 15px;
+    padding: 6px 17px;
+    border-color: var(--white);
+    box-shadow: 3px 3px 3px var(--shadow);
+    font-size: 4vh;
+}
+
+#valid:hover {
+    background-color: var(--white);
+    border-color: var(--secondary);
+    color: var(--shadow);
+
+    transition: all .2s ease;
+}
+
+/** END Bouton **/
